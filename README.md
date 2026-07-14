@@ -1,5 +1,8 @@
+# How to Run the code
+1. If u want to run it cell wise , then use .ipynb file . This will give u cell wise analysis
+2. you can run the whole code at a single time , use .py file
+
 # Host-Based Intrusion Detection System (HIDS) using N-Gram Profiling
-NB: If u want to run the code. download the .ipynb file and run it locally or through google colab
 
 An anomaly-based Host-Based Intrusion Detection System (HIDS) designed to monitor host-level activities and detect malicious behaviors by analyzing system call sequences. By shifting away from rigid signature-based detection, this system models normal system behavior to effectively identify novel, zero-day attacks.
 
